@@ -1,0 +1,70 @@
+# ZIPANG OPERA – KAMIYAGURA
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+The way to victory, gods live here
+
+願ったことすべて 叶うわけじゃないと
+知って誰も旅に出る
+未知なる世界踏み出す
+いつだって 裏切りが蔓延りパラノイド
+正義が破綻し続けてるDialogueと
+黙って見てるよりMoving, moving fast
+万物味方につけ Spared it to the world
+
+この身が傷つくとして
+意思が削がれないなら
+それぞれ歩みしStory
+かけがえない想いを抱き
+選んだ道なら
+一歩たりとも引けはしないさ
+
+神々が宿るという
+冒険者のMilestone
+我に力(パワー) (Got to be stronger)
+授けたまえ
+失うものなんてないだろ
+想い果たす そのために
+Fight for freedom
+ここから 未来を変えてく
+神の身許熱き
+KAMIYAGURA
+Gods live here
+
+計算通りに行かずExhale 抗うことそれがAccel
+ゼロ以下可能性でも Betしなその運命
+無理だって 投げ出しゃThe endのエピソード
+意味なんてないことはないと森羅万象
+教えてくれてるOnce a once again
+神気身に纏い栄光をGet
+
+神々を呼び醒ませ
+挑戦者のMilestone
+我にVictory (Got to be stronger)
+授けたまえ
+負ける訳にいかないだろ
+叶えるなら 行くしかない
+Fight for freedom
+必ず 未来は美しい
+神の身許熱き
+KAMIYAGURA
+
+戦いはまるで 穢れなき神儀
+迷い恐れ諦め 心を掠めたなら
+もう二度と 奇跡なんて発動しないから
+
+神々が宿るという
+冒険者のMilestone
+我に力(パワー) (Got to be stronger)
+授けたまえ
+失うものなんてないだろ
+想い果たす そのために
+Fight for freedom
+ここから 未来を変えてく
+神の身許熱き
+KAMIYAGURA
+Gods live here
+
+The way to victory, gods live here
+```
