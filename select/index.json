@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "KAMIYAGURA",
+  "base_artist": "ZIPANG OPERA",
+  "createdAt": "2026-02-09T19:29:35.591038Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "KAMIYAGURA",
+      "artist": "ZIPANG OPERA",
+      "has_synced": false,
+      "path": "select/01_KAMIYAGURA_ZIPANG_OPERA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KAMIYAGURA",
+      "artist": "ZIPANG OPERA",
+      "has_synced": false,
+      "path": "select/pl_01_KAMIYAGURA_ZIPANG_OPERA.txt"
+    }
+  ]
+}
